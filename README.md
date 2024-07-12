@@ -28,11 +28,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rust_Programming_Language_Logo_Gear_only.svg/159px-Rust_Programming_Language_Logo_Gear_only.svg.png?20220508075530" alt="rust" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victordhn&show_icons=true&locale=en&layout=compact" alt="victordhn" /></p>
-
-## My GitHub Contribution Snake
-
-![GitHub Snake](https://github.com/victordhn/victordhn/raw/output/github-snake.svg)
-![GitHub Snake Dark](https://github.com/victordhn/victordhn/raw/output/github-snake-dark.svg)
-![GitHub Snake Ocean](https://github.com/victordhn/victordhn/raw/output/ocean.gif)

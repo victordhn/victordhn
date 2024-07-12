@@ -28,3 +28,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rust_Programming_Language_Logo_Gear_only.svg/159px-Rust_Programming_Language_Logo_Gear_only.svg.png?20220508075530" alt="rust" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victordhn/victordhn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victordhn/victordhn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victordhn/victordhn/output/github-contribution-grid-snake.svg">
+</picture>

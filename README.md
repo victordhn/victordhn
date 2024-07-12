@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 👾 I use JavaScript for frontend development and Node.js for backend. For data analysis, I use Python, and I maintain my databases with PostgreSQL
+- 👾 I use **JavaScript** for frontend development and **Node.js** for backend. For data analysis, I use **Python**, and I maintain my databases with **PostgreSQL**
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
-- 🪙 In blockchain development, I primarily code in Solidity, and I'm currently learning Rust for Solana web apps.
+- 🪙 In blockchain development, I primarily code in **Solidity**, and I'm currently learning **Rust** for Solana web apps
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>

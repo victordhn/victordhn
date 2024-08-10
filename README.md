@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm victordhn</h1>
-<h3 align="center">Former web3 degen and now a credit analyst with a blockchain development side project</h3>
+<h3 align="center">Credit analyst with a blockchain development side project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victordhn&label=Profile%20views&color=0e75b6&style=flat" alt="victordhn" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Finance related questions ;)**
+- 💬 Ask me about **Finance ML and AI algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
